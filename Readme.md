@@ -102,11 +102,11 @@
 <h2 align="center">📡 CONNECT</h2>
 
 <div align="center">
-  <a href="mailto:rootxnex@gmail.com">
-    <img src="https://img.shields.io/badge/rootxnex@gmail.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B8D9&border=00B8D9" />
+  <a href="mailto:nullxnex@gmail.com">
+    <img src="https://img.shields.io/badge/nullxnex@gmail.com-0A1F44?style=for-the-badge&logo=gmail&logoColor=00B8D9&border=00B8D9" />
   </a>
-  <a href="https://github.com/rootxnex">
-    <img src="https://img.shields.io/badge/github.com/rootxnex-0A1F44?style=for-the-badge&logo=github&logoColor=00B8D9&border=00B8D9" />
+  <a href="https://github.com/nullxnex">
+    <img src="https://img.shields.io/badge/github.com/nullxnex-0A1F44?style=for-the-badge&logo=github&logoColor=00B8D9&border=00B8D9" />
   </a>
 </div>
 
