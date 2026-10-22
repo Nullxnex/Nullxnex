@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/rootxnex">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=120&section=header&text=rootxnex&fontSize=40&fontColor=00B8D9&animation=fadeIn&fontAlignY=35" />
+  <a href="https://github.com/Nullxnex">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0A1F44&height=120&section=header&text=Nullxnex&fontSize=40&fontColor=00B8D9&animation=fadeIn&fontAlignY=35" />
   </a>
 </div>
 
